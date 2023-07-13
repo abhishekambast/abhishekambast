@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekambast
 - 👀 I’m interested in Technological stuffs and I want to experience working on all the technologies that I see around myself
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 💞️ I’m looking to collaborate on Web Development and Data Science related projects
 - 📫 Contact me on my Email abhishekambast3@gmail.com
 
 <!---
